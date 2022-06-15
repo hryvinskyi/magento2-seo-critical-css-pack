@@ -1,0 +1,24 @@
+{
+    "name": "hryvinskyi/magento2-seo-critical-css-pack",
+    "version": "1.0.0",
+    "description": "N/A",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "hryvinskyi/magento2-seo-critical-css": "1.0.*",
+        "hryvinskyi/magento2-seo-critical-css-frontend-ui": "1.0.*",
+        "hryvinskyi/magento2-seo-critical-css-admin-ui": "1.0.*"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "authors": [
+        {
+            "name": "Volodymyr Hryvinskyi",
+            "email": "volodymyr@hryvinskyi.com"
+        }
+    ],
+    "license": [
+        "MIT"
+    ]
+}
